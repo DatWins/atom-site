@@ -13,15 +13,7 @@ type = "timeless"
 Here is a set of links to good sites:
 
 ## Where to play? ##
-[lichess.org](https://lichess.org/) - One of the largest sites for playing atomic chess (or regular chess and other variants) online. Completely free and open-source, and with good diagram, study and analysis tools.
-
-
-## Who can I discuss with? ##
-[//]: # ( [My blog group](https://lichess.org/team/illions-atomic-blog-discussion) - Join this lichess group for updates to my site, and to discuss atomic chess with other players. )
-
-[Atomic Chess Theoreticians](https://lichess.org/team/atomic-chess-theoreticians) - The biggest atomic chess discussion group on lichess. Created at the start of 2015, it has since gathered numerous discussions on everything from opening lines to writing computer engines. Many strong players tend to lurk here.
-
-[The House Discord Server](https://dscrd.me/housechessvariants) - A Discord server for many chess variants, including atomic, crazyhouse, bughouse, antichess (losing chess), 4-player, Horde and much more. A lively community including many strong players in each variant, some of whom are even GMs and IMs in regular chess.
+[lichess.org](https://lichess.org/) - Completely free and open-source, and with good diagram, study and analysis tools.
 
 
 ## Where can I learn? ##
@@ -32,7 +24,3 @@ Here is a set of links to good sites:
 [ProgramFOX's YouTube channel](https://www.youtube.com/channel/UCmx82Kgy9ALzAcmti0LwkJw/featured) - The creator of the Chess Variants Training site (see above) also from time to time streams and uploads videos of playing high-level atomic chess.
 
 
-## Who else is out there? ##
-[Chronatog](https://chronatog.com/) - Chronatog has been around the variant chess scene an inordinately long time, plays or played many variants to the highest levels (atomic, but also antichess, wild5 and others), and knows many players past and present. His site is currently a great archive of interviews with old players from many different servers and some old games.
-
-[Chronatog Classic](http://www.nicklong.net/chess/lite/) - And Chronatog has of course written much about atomic chess specifically. His old pages are still available, featuring writeups about the history, sites and players of the variant and of internet chess in general.
