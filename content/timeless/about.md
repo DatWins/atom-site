@@ -12,4 +12,3 @@ You'll find in this blog my approach to atomic chess. I'll share my thought proc
 
 Whatever the case, I hope you'll enjoy reading this blog, and enjoy playing atomic even more!
 
-_~[Illion](https://lichess.org/@/Illion)_
