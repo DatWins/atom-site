@@ -22,3 +22,7 @@ title = "Youth Chess Training"
     name = "Blog"
 	url = "/categories/blog/"
 	weight = 3
+[[menu.main]]
+    name = "Links"
+	url = "/links/"
+	weight = 4
