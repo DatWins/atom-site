@@ -5,7 +5,6 @@ description = ""
 
 slug = "n2n-first-steps"
 categories = ["blog"]
-series = ["New-to-nuke"]
 tags = ["New-to-nuke", "general-advice", "beginner"]
 type = "post"
 +++
