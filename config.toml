@@ -28,5 +28,5 @@ title = "Youth Chess Training"
 	weight = 4
 [[menu.main]]
     name = "Tags"
-	url = "/tag"
+	url = "/tags"
 	weight = 5	
