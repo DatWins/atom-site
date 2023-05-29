@@ -7,9 +7,9 @@ title = "Youth Chess Training"
 	timeless = "/:slug/"
 
 [taxonomies]
-	category = "categories"
 	tag = "tags"
-	
+	category = "categories"
+		
 [[menu.main]]
     name = "Home"
 	url = "/"
