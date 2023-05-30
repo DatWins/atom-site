@@ -1,6 +1,5 @@
 +++
 title = "About"
-date = 2019-03-24T20:47:13+08:00
 description = ""
 
 slug = "about"
