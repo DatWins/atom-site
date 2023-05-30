@@ -15,18 +15,14 @@ title = "Youth Chess Training"
 	url = "/"
 	weight = 1
 [[menu.main]]
-    name = "About"
-	url = "/about"
-	weight = 2
-[[menu.main]]
     name = "Blog"
 	url = "/categories/blog/"
-	weight = 3
+	weight = 2
 [[menu.main]]
     name = "Links"
 	url = "/links/"
-	weight = 4
+	weight = 3
 [[menu.main]]
     name = "Tags"
 	url = "/tags"
-	weight = 5	
+	weight = 4	
