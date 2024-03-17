@@ -7,7 +7,7 @@ slug = ""
 tags = []
 type = ""
 
-draft = true
+draft = false
 +++
 
 Hugo shortcode test (there should be something below this line:)
