@@ -4,10 +4,10 @@ date = 2018-07-22T18:47:03+02:00
 description = ""
 
 slug = ""
-tags = ["analysis"]
-type = ""
-
-+++
+categories = ["blog"]
+tags = ["beginner"]
+type = "post"
+++++++
 
 Hugo shortcode test (there should be something below this line:)
 
