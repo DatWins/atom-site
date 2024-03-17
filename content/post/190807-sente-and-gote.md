@@ -10,7 +10,7 @@ series = []
 tags = ["terminology", "general-advice"]
 type = "post"
 
-draft = false
+draft = true
 +++
 
 There is much to learn from the study of chess and chess-like games in Asia. Two useful terms we can borrow from their literature are *sente* and *gote*, which relate to the concept of the initiative.
